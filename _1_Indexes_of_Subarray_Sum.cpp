@@ -23,3 +23,17 @@ Constraints:
 0 <= target <= 109
 */
 
+#include<bits/stdc++.h>
+using namespace std;
+
+// class Solution{
+//     public:
+//     vector<int> subarraySum(vector<int> &arr, int target ) {
+
+//     }
+
+//};
+int main(){
+cout<<"hello world"<<endl;
+return 0;
+}

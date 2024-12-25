@@ -1,0 +1,26 @@
+Use Cases of Sliding Window Technique:
+1. To find the maximum sum of all subarrays of size K.
+2. Smallest subarray with sum greater than a given value.
+3. Find subarray with given sum in an array of non-negative integers.
+4. Smallest window that contains all characters of string itself.
+
+problem
+--------
+1.  Find Subarray with given sum
+2.  Sliding Window Maximum (Maximum of all subarrays of size K)
+3.  Longest Sub-Array with Sum K
+4.  Find maximum (or minimum) sum of a subarray of size k
+5.  Smallest window in a String containing all characters of other String
+6.  Length of the longest substring without repeating characters
+7.  First negative integer in every window of size k
+8.  Count distinct elements in every window of size k
+9.  Smallest window that contains all characters of string itself
+10. Largest sum subarray with at-least k numbers
+
+
+
+
+
+
+
+
